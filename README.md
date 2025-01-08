@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">📂About me</h2>
 
 ###
 
-<p align="left"><br>
+<p align="left">
 🌟 Engineering student at LNMIIT 🎓<br>
 💻 Enthusiastic about web development and coding 🚀<br>
 🧑🏻‍💻 I’m looking to collaborate on any open-source project to improve my skills and contribute positively to its development.</p>
