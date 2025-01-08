@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Kautilya Srivastava and I'm a B-Tech Student, from LNMIIT</p>
 
 ###
 
@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">💫 About Me:<br>
+🌟 Engineering student at LNMIIT 🎓<br>
+💻 Enthusiastic about web development and coding 🚀<br>
+🧑🏻‍💻 I’m looking to collaborate on any open-source project to improve my skills and contribute positively to its development.</p>
 
 ###
 
