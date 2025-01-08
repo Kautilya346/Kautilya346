@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kautilya Srivastava and I'm a B-Tech Student, from LNMIIT</p>
+<p align="left">My name is Kautilya Srivastava and I'm a B.Tech Student, from LNMIIT🧑🏻‍🎓</p>
 
 ###
 
